@@ -10,10 +10,10 @@ export default function Index() {
       </Text>
       <Text style={[{ fontSize: 10 }, styles.txtWel]}>Welcome to DTI</Text>
       <Link href="/signin" style={styles.linktxt}>
-        Signin!
+        Signin!!!!!
       </Link>
       <Link href="/signup" style={styles.linktxt}>
-        Signup!
+        Signup!!!!
       </Link>
     </View>
   );
